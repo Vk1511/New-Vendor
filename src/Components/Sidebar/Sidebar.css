@@ -1,0 +1,49 @@
+.sidebar_container {
+  background-color: #444444;
+  height: 100vh;
+  position: fixed;
+  margin-top: 4rem;
+  transition: 0.5s;
+  transition-timing-function: ease-out;
+  transition-property: all;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  box-shadow: 1px 2px 5px 1px #171717;
+}
+.full {
+  width: 17rem;
+}
+.half {
+  width: 5rem;
+  align-items: center;
+}
+.iteam {
+  color: #fff;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  margin-top: 0.5rem;
+  display: inline-flex;
+  user-select: none;
+  transition: 0.3s;
+  transition-property: all;
+}
+.iteam:hover {
+  background-color: #171717;
+}
+.active {
+  background-color: #171717;
+}
+
+@media (max-width: 539px) {
+  .sidebar_container {
+    margin-top: 8rem;
+  }
+  .full {
+    width: 100%;
+    align-items: center;
+  }
+  .half {
+    display: none;
+  }
+}

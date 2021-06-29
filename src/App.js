@@ -1,24 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from "react";
+import VendorMenu from "./Components/VendorMenu/VendorMenu";
+import Sidebar from "./Components/Sidebar/Sidebar";
+import Content from "./Components/Content/Content";
+import "./App.css";
 
 function App() {
+  const [toggle, setToggle] = useState(false);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <VendorMenu setToggle={setToggle} toggle={toggle} />
+      <Sidebar toggle={toggle} />
+      <Content />
+    </>
   );
 }
 
