@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/New-Vendor/static/css/main.dcc1eeea.chunk.css",
-    "main.js": "/New-Vendor/static/js/main.e3f714c9.chunk.js",
-    "main.js.map": "/New-Vendor/static/js/main.e3f714c9.chunk.js.map",
-    "runtime-main.js": "/New-Vendor/static/js/runtime-main.dbb48067.js",
-    "runtime-main.js.map": "/New-Vendor/static/js/runtime-main.dbb48067.js.map",
-    "static/js/2.ebb60079.chunk.js": "/New-Vendor/static/js/2.ebb60079.chunk.js",
-    "static/js/2.ebb60079.chunk.js.map": "/New-Vendor/static/js/2.ebb60079.chunk.js.map",
-    "static/js/3.20dee7f7.chunk.js": "/New-Vendor/static/js/3.20dee7f7.chunk.js",
-    "static/js/3.20dee7f7.chunk.js.map": "/New-Vendor/static/js/3.20dee7f7.chunk.js.map",
+    "main.css": "/New-Vendor/static/css/main.6c8957b7.chunk.css",
+    "main.js": "/New-Vendor/static/js/main.aff27bdf.chunk.js",
+    "main.js.map": "/New-Vendor/static/js/main.aff27bdf.chunk.js.map",
+    "runtime-main.js": "/New-Vendor/static/js/runtime-main.76f2a610.js",
+    "runtime-main.js.map": "/New-Vendor/static/js/runtime-main.76f2a610.js.map",
+    "static/js/2.c3681ee2.chunk.js": "/New-Vendor/static/js/2.c3681ee2.chunk.js",
+    "static/js/2.c3681ee2.chunk.js.map": "/New-Vendor/static/js/2.c3681ee2.chunk.js.map",
+    "static/js/3.e6935db9.chunk.js": "/New-Vendor/static/js/3.e6935db9.chunk.js",
+    "static/js/3.e6935db9.chunk.js.map": "/New-Vendor/static/js/3.e6935db9.chunk.js.map",
     "index.html": "/New-Vendor/index.html",
-    "static/css/main.dcc1eeea.chunk.css.map": "/New-Vendor/static/css/main.dcc1eeea.chunk.css.map",
-    "static/js/2.ebb60079.chunk.js.LICENSE.txt": "/New-Vendor/static/js/2.ebb60079.chunk.js.LICENSE.txt"
+    "static/css/main.6c8957b7.chunk.css.map": "/New-Vendor/static/css/main.6c8957b7.chunk.css.map",
+    "static/js/2.c3681ee2.chunk.js.LICENSE.txt": "/New-Vendor/static/js/2.c3681ee2.chunk.js.LICENSE.txt",
+    "static/media/cancel.0604220a.svg": "/New-Vendor/static/media/cancel.0604220a.svg",
+    "static/media/monthly.e93974a5.svg": "/New-Vendor/static/media/monthly.e93974a5.svg",
+    "static/media/order.a5f99911.svg": "/New-Vendor/static/media/order.a5f99911.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.dbb48067.js",
-    "static/js/2.ebb60079.chunk.js",
-    "static/css/main.dcc1eeea.chunk.css",
-    "static/js/main.e3f714c9.chunk.js"
+    "static/js/runtime-main.76f2a610.js",
+    "static/js/2.c3681ee2.chunk.js",
+    "static/css/main.6c8957b7.chunk.css",
+    "static/js/main.aff27bdf.chunk.js"
   ]
 }
