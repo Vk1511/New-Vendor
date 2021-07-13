@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/New-Vendor/static/css/main.873dbc01.chunk.css",
-    "main.js": "/New-Vendor/static/js/main.9d6bd2fa.chunk.js",
-    "main.js.map": "/New-Vendor/static/js/main.9d6bd2fa.chunk.js.map",
-    "runtime-main.js": "/New-Vendor/static/js/runtime-main.768cb0e4.js",
-    "runtime-main.js.map": "/New-Vendor/static/js/runtime-main.768cb0e4.js.map",
-    "static/js/2.ce8ea147.chunk.js": "/New-Vendor/static/js/2.ce8ea147.chunk.js",
-    "static/js/2.ce8ea147.chunk.js.map": "/New-Vendor/static/js/2.ce8ea147.chunk.js.map",
-    "static/js/3.f0c74760.chunk.js": "/New-Vendor/static/js/3.f0c74760.chunk.js",
-    "static/js/3.f0c74760.chunk.js.map": "/New-Vendor/static/js/3.f0c74760.chunk.js.map",
+    "main.css": "/New-Vendor/static/css/main.cd4d5196.chunk.css",
+    "main.js": "/New-Vendor/static/js/main.5c6d0a47.chunk.js",
+    "main.js.map": "/New-Vendor/static/js/main.5c6d0a47.chunk.js.map",
+    "runtime-main.js": "/New-Vendor/static/js/runtime-main.7c8e8924.js",
+    "runtime-main.js.map": "/New-Vendor/static/js/runtime-main.7c8e8924.js.map",
+    "static/js/2.f34cff61.chunk.js": "/New-Vendor/static/js/2.f34cff61.chunk.js",
+    "static/js/2.f34cff61.chunk.js.map": "/New-Vendor/static/js/2.f34cff61.chunk.js.map",
+    "static/js/3.a1727c9d.chunk.js": "/New-Vendor/static/js/3.a1727c9d.chunk.js",
+    "static/js/3.a1727c9d.chunk.js.map": "/New-Vendor/static/js/3.a1727c9d.chunk.js.map",
     "index.html": "/New-Vendor/index.html",
-    "static/css/main.873dbc01.chunk.css.map": "/New-Vendor/static/css/main.873dbc01.chunk.css.map",
-    "static/js/2.ce8ea147.chunk.js.LICENSE.txt": "/New-Vendor/static/js/2.ce8ea147.chunk.js.LICENSE.txt",
+    "static/css/main.cd4d5196.chunk.css.map": "/New-Vendor/static/css/main.cd4d5196.chunk.css.map",
+    "static/js/2.f34cff61.chunk.js.LICENSE.txt": "/New-Vendor/static/js/2.f34cff61.chunk.js.LICENSE.txt",
     "static/media/cancel.0604220a.svg": "/New-Vendor/static/media/cancel.0604220a.svg",
     "static/media/monthly.e93974a5.svg": "/New-Vendor/static/media/monthly.e93974a5.svg",
     "static/media/order.a5f99911.svg": "/New-Vendor/static/media/order.a5f99911.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.768cb0e4.js",
-    "static/js/2.ce8ea147.chunk.js",
-    "static/css/main.873dbc01.chunk.css",
-    "static/js/main.9d6bd2fa.chunk.js"
+    "static/js/runtime-main.7c8e8924.js",
+    "static/js/2.f34cff61.chunk.js",
+    "static/css/main.cd4d5196.chunk.css",
+    "static/js/main.5c6d0a47.chunk.js"
   ]
 }
